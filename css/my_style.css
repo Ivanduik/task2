@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 756px;
+  width: 100%;
+  margin: auto;
+  gap: 10px;
+}
+.dog {
+  max-width: 300px;
+  width: 100%;
+}
+.cat {
+  max-width: 300px;
+  width: 100%;
+}
+.turtle {
+  max-width: 300px;
+  width: 100%;
+}
